@@ -18,7 +18,8 @@ function Section2() {
           underneath we're just the friends you haven't met yet. Hear Us
           provides you free of cost sessions with empathetic listeners.</p>
           <div class="flex justify-center">
-            <button class=" text-white hover:bg-[#0B5351] border-0 py-2 px-6 focus:outline-none bg-[#062e2d] rounded text-lg">Download the App Now!</button>
+            <button class=" text-white hover:bg-[#0B5351] border-0 py-2 px-6 focus:outline-none bg-[#062e2d] rounded text-lg"
+              href="https://play.google.com/store/apps/details?id=me.hearus.app">Download the App Now!</button>
           </div>
         </div>
       </div>

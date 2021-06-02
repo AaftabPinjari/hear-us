@@ -22,11 +22,11 @@ function NavBar() {
             height={100} />
         </a>
         <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
-          <Link href="/"><a className="mr-5 text-[#2C5282] text-2xl cursor-pointer hover:text-gray-900">Home</a></Link>
-          <Link href="/about"><a className="mr-5 text-[#2C5282] text-2xl cursor-pointer hover:text-gray-900">About</a></Link>
-          <Link href="/blog"><a className="mr-5 text-[#2C5282] text-2xl cursor-pointer hover:text-gray-900">Blog</a></Link>
-          <Link href="/contact"><a className="mr-5 text-[#2C5282] text-2xl cursor-pointer hover:text-gray-900">Contact</a></Link>
-          <Link href="/FAQ"><a className="mr-5 text-[#2C5282] text-2xl cursor-pointer hover:text-gray-900">FAQ</a></Link>
+          <Link href="/"><a className="mr-5 text-[#062e2d] text-2xl cursor-pointer hover:text-gray-900">Home</a></Link>
+          <Link href="/about"><a className="mr-5 text-[#062e2d] text-2xl cursor-pointer hover:text-gray-900">About</a></Link>
+          <Link href="/blog"><a className="mr-5 text-[#062e2d] text-2xl cursor-pointer hover:text-gray-900">Blog</a></Link>
+          {/*<Link href="/contact"><a className="mr-5 text-[#062e2d] text-2xl cursor-pointer hover:text-gray-900">Contact</a></Link>*/}
+          <Link href="/FAQ"><a className="mr-5 text-[#062e2d] text-2xl cursor-pointer hover:text-gray-900">FAQ</a></Link>
         </nav>
       </div>
 

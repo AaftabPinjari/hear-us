@@ -1,7 +1,7 @@
 import React from "react";
-import { Box, Heading, Text, Button } from "@chakra-ui/react";
-import img from "next/image";
-import Background from "../assets/bg.png";
+
+
+// import Background from "../assets/bg.png";
 
 function Hero() {
   return (

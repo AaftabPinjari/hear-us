@@ -1,12 +1,19 @@
 import '../styles/globals.css'
-import { ChakraProvider } from "@chakra-ui/react"
+import logo from "../assets/logo.png";
+import Link from "next/link"
+import Image from "next/image"
+import Layout from '../components/Layout';
+
 
 
 function MyApp({ Component, pageProps }) {
   return (
-    <ChakraProvider>
+    <Layout >
       <Component {...pageProps} />
-    </ChakraProvider>
+    </Layout>
+
+
+
   )
 }
 

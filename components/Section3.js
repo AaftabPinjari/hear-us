@@ -1,5 +1,5 @@
-import { Box, Heading, Text, Button, Image } from "@chakra-ui/react";
-// import { ReactComponent as Psy } from "../assets/psy.svg";
+
+
 
 function Section3() {
   return (
